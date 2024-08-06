@@ -80,8 +80,8 @@ urban-planning-website/
 
 2. **Set up the database:**
 
-   - Import the `urban-planning-db.sql` file located in the `db/` directory into your MySQL server using phpMyAdmin or the MySQL command line.
-   - Optionally, populate the database with sample data using the `data.sql` file.
+   - Create the necessary tables by executing the SQL commands in the i.txt file using phpMyAdmin or the MySQL command line.
+   -Note that there is no sample data provided, so you may need to manually insert data into the tables as needed.
 
 3. **Configure the local server:**
 
